@@ -1,7 +1,7 @@
 {
-  "name": "discord-bot-github",
+  "name": "SooryanGO Alt",
   "version": "0.4.7",
-  "description": "A Discord bot which lets you subscribe to GitHub events and reports about your subscriptions.",
+  "description": "Literally what the name says but a bot bruh.",
   "main": "build/bundle.js",
   "scripts": {
     "test": "echo \"No tests\"",
@@ -14,16 +14,7 @@
   "repository": {
     "type": "git",
     "url": "git+https://github.com/Falconerd/discord-bot-github.git"
-  },
-  "keywords": [
-    "Discord",
-    "GitHub",
-    "Bot"
-  ],
-  "author": "Dylan Falconer <me@falconerd.com> (http://falconerd.com)",
-  "license": "MIT",
-  "bugs": {
-    "url": "https://github.com/Falconerd/discord-bot-github/issues"
+  
   },
   "homepage": "https://github.com/Falconerd/discord-bot-github#readme",
   "dependencies": {
